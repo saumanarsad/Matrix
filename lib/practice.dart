@@ -6,4 +6,5 @@ void main() {
 class Humans {
   var email = '@ sauman';
   var password = 'password';
+  var name = 'name';
 }
